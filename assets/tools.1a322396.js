@@ -1,0 +1,1 @@
+import{n as o}from"./index.cf819d24.js";const t=(o,t=Date.now())=>{let r=(t-o)/1e3;return{days:Math.floor(r/86400),hours:Math.floor(r/3600%24),minutes:Math.floor(r/60%60),seconds:Math.floor(r%60)}},r=()=>{let t=o();return t[t.length-1]};export{r as c,t as d};

@@ -1,0 +1,1 @@
+import{d as s,o as a,c as t,V as e,aa as r,i,$ as n}from"./index.cf819d24.js";const o=s({__name:"status_bar",setup:s=>(s,o)=>{const c=i;return a(),t(c,{class:"bg-inherit",style:e({height:`${r(n)().statusBarHeight}px`})},null,8,["style"])}});export{o as _};

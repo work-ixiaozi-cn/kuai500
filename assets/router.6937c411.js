@@ -1,0 +1,1 @@
+import{I as e,G as n,n as s}from"./index.cf819d24.js";const a=(s,a="fade-in",i=300,t=undefined)=>new Promise(((r,o)=>s.endsWith("/index")||"/"==s?e({url:s,success:e=>r(e),fail:e=>r(e)}):n({url:s,animationType:a,animationDuration:i,events:t,success:e=>r(e),fail:e=>o(e)}))),i=()=>{let e=s();return e[e.length-1].$page};export{i as c,a as g};
